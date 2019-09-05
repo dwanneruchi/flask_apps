@@ -10,7 +10,7 @@ __pycache__/
 env/
 bin/
 build/
-flask_app/
+flask_test/
 develop-eggs/
 dist/
 eggs/
