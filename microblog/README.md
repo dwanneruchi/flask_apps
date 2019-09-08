@@ -113,7 +113,17 @@ The Flask-WTF extension uses Python classes to represent web forms.
 The first class is `LoginForm` which is going to inherit from FlaskForm. We also need to import specific data types from the wtforms (general package installed when we added the flask-wtf extension). 
 
 
+### Databases in Flask
 
+Miguel mentions these are not natively supported, so we can use whatever we want (to an extent) 
+
+### Connecting with Heroku: 
+
+Okay, this was a bit of a pain for me. There are some very helpful resources, but here are the steps I took: 
+
+- Make sure you are working in a git repo; also need to have the heroku CLI working (info here: )
+
+- 
 
 ### config.py
 
